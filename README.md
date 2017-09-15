@@ -1,2 +1,2 @@
 # beat-tunnel
-An audio-based super casual endless runner-esque game.
+An audio-powered super casual endless runner-esque game.
